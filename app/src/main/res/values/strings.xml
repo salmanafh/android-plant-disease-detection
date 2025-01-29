@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Agrease</string>
+    <string-array name="hawar_daun_padi">
+        <item>
+            Disebabkan oleh bakteri Xanthomonas campestris pv. Oryzae menyebabkan pertumbuhan terhambat, butir-butir padi kurang bernas, kualitas biji rendah, dan presentase padi pecah tinggi.
+        </item>
+        <item>
+            sanitasi tanaman inang, pemilihan vareitas tanah sesuai dengan sebaran ras, hindari penggenangan air terlalu dalam, pemupukan yang seimbang, melakukan pengeringan secara berkala (1 hari diairi, 3-4 hari dikeringkan), pengendalian dengan bakteri antagonis Corynebacterium sp.
+        </item>
+        <item>
+            Penggunaan bakterisida sintetik (ex : Amistartop 325 SC, Avidor 25 WP, dan Agrept 20 WP) dan bakterisida nabati (ex : biopatek, dan foxxin 420 SC)
+        </item>
+    </string-array>
+    <string-array name="normal">
+        <item>
+            Tanaman aman dari penyakit
+        </item>
+        <item>
+            Tidak perlu ada pencegahan
+        </item>
+        <item>
+            Tidak perlu ada pengobatan
+        </item>
+    </string-array>
+    <string-array name="gores_daun_padi">
+        <item>
+            Disebabkan oleh bakteri Xanthomonas oryzae pv. Oryzicola menyebabkan pencoklatan dan pengeringan daun, jika parah dapat menyebabkan berkurangnya berat butir. Biasa karena suhu tinggi dan kelembapan tinggi.
+        </item>
+        <item>
+            merawat benih dengan air hangat/panas, menjaga kebersihan lahan (menyingkirkan gulma dan melakukan pembajakan, memusnahkan jerami, raton padi, serta bibit yang terjangkit bakteri), melalakukan penyeimbangan nutrisi khususnya nitrogen (pemupukan dengan pupuk nitrogen), menguras lading saat banjir parah, melakukan pengeringan lahan selama periode pertumbuhan padi.
+        </item>
+        <item>
+            Penggunaan bakterisida sintetik (ex : Amistartop 325 SC, Avidor 25 WP, dan Agrept 20 WP) dan bakterisida nabati (ex : biopatek, dan foxxin 420 SC), pemberian FMA (fungi mikoriza arbuskula).
+        </item>
+    </string-array>
+    <string-array name="hawar_malai_padi">
+        <item>
+            Penyakit ini disebabkan oleh Burkholseria glumae menyerang stomata pada bawah daun, ditularkan melalui biji, bunga, dan daun sisa tanaman, dan dapat hidup pada akar padi. Menyebabkan pembusukan gabah dan tanaman.
+        </item>
+        <item>
+            Melakukan pengairan dan pemupukan dengan tepat, kontrol kimia benih, penggunaan kultivar dengan resistensi parsial yang dapat mengurangi laju perkembangan penyakit, memperhatikan waktu penanaman, penggunaan cuka 2% pada benih, perlakuan udara panas 55oC selama 1 jam pada benih.
+        </item>
+        <item>
+            Pemusnahan limbah panen, pemusnahan  biji yang terjangkit bakteri, penggunaan bakterisida sintetik (ex : methasulfocarb (S-(4-methylsulfonyloxyphenyl) N-methyl), nordox 56 WP) 
+        </item>
+    </string-array>
+    <string-array name="blas">
+        <item>
+            Penyebab Blas ialah jamur Pyricularia oryzae dengan menyerang daun, buku pada malai dan ujung tangkai malai. Serangan ini dapat menyebabkan daun, gelang buku, tangkai malai, dan cabang didekat pangkal malai membusuk, menyebabkan pemasakan makanan terhambat dan butiran padi menjadi hampa.
+        </item>
+        <item>
+            Melakukan pemupukan yang seimbang (untuk daerah serangan endemis dianjurkan agar tidak memakai dosis nitrogen yang lebih tinggi dari 90 kg/ha), saat menyemai dan penanaman hendaknya kecukupan air diperhatikan, tidak meggunakan benih yang telah terjangkit blas, kelembapan juga diperhatikan, dianjurkan menerapkan sistem tanam jajar legowo,
+        </item>
+        <item>
+            Membakar jerami dari pertanaman yang sakit, memendam jerami dari pertanaman yang sakit menjadi kompos, melakukan penyemprotan fungisida benomil dan tiram (ex : benlox, masalqin)
+        </item>
+    </string-array>
+    <string-array name="bercak_coklat_pada_padi">
+        <item>
+            Penyebab Bercak daun coklat ialah jamur Helmintosporium oryzae dengan menyerang pelepah, malai, buah yang baru tumbuh dan bibit yang baru berkecabambah. Biji berbercak-bercak coklat tetapi tetap berisi, padi dewasa busuk kering, biji kecambah busuk dan kecambah mati.
+        </item>
+        <item>
+            Melakukan penanaman yang tidak terlalu rapat, meggunakan sistem tanam  legowo, tidak menggunakan pupuk urea berlebih dan diimbangi dengan unsur K, melakukan pemupukan berimbang yang lengkap (250 kg urea, 100 kg SP36 dan 100 kg KCl per ha)
+        </item>
+        <item>
+            Penggunaan fungisida sintetik dengan bahan aktif difenoconazol, azoxistrobin, belerang, difenokonazol, tebukonazol, karbandazim, metil tiofanat, dan klorotalonil (ex : Rebcide 50 WP, antracol, dithane, score, anvil, folicur, native, opus, indar)
+        </item>
+    </string-array>
+    <string-array name="malai_mati">
+        <item>
+            Karena adanya suhu yang tentunya melebihi suhu normal atau kurangnya irigasi pada tanaman
+        </item>
+        <item>
+            Penendalian irigasi atau pegairan yang tepat
+        </item>
+        <item>
+            Peningkatan pengairan dengan seimbang
+        </item>
+    </string-array>
+    <string-array name="bulai_padi">
+        <item>
+            Disebabkan oleh jamur Pseudoperonospora cubensis dimana spora jamur dapat menyebar melalui angina dalam kondisi kering, membuat tanaman kering dan mati, bercak kuning akan tampak mengikuti tulang daun dan bercak mulai muncul pada daun tua, terutama pada bagian bawah daun.
+        </item>
+        <item>
+            Mengurangi kelembapan tanaman dengan mengatur jarak tanam padi
+        </item>
+        <item>
+            Penggunaan fungisida dengan bahan aktif propinep, fluopikolid, manzokeb, tembaga hidroksida ( ex : prima gard, detazeb dan dithane M-45), melakukan pembuangan daun (perompesan) yang terjangkit Downy mildew, memperbaiki saluran pembuangan air sehingga tidak adanya genangan.
+        </item>
+    </string-array>
+    <string-array name="hispa">
+        <item>
+            Disebabkan oleh serangga dewasa dan larva hispa padi Dicladispa armigera yang mengkikis permukaan atas helai daun dan hanya menyisakan epidermis pada bagian bawah, dan digunakan sebagai tempat menyimpan telur. Menyebabkan pola garis-garis putih dan parallel di sepanjang sumbu utama daun, bahkan dapat memunculkan bercak putih besar. Daun akan mongering dan menghadirkan tampilan putih di laha, dari kejauhan lahan yang terserang hispa parah akan tampak seperti kebakaran.
+        </item>
+        <item>
+            Penggunaan jarak tanam yang tepat, malakukan penanaman pada awal musim, memotong ujung pucuk untuk mencegah serangga bertelur.
+        </item>
+        <item>
+            Penggunaan insektisida dengan bahan aktif klorpirifos, melation, spermetrin, dan fentoat (ex : avidor 25 WP, virtako 300 SC, confidor, dan curacron), daun dan pucuk yang terserang penyakit dipotong dan dibakar atau dikubur di bawah lumpur, menghindari pemupukan nitrogen berlebih, melakukan rotasi tanaman padi
+        </item>
+    </string-array>
+    <string-array name="tungro">
+        <item>
+            Disebabkan oleh wereng hijau yang membawa virus Rice tungro bacilliform virus (RTBV) dan Rice tungro spherical virus (RTSV). Perubahan akan tampak pada daun muda menjadi kuning lalu jadi jingga, daun melintir, tanaman jadi kerdil karena kekurangan zat hara dan mati.
+        </item>
+        <item>
+            Melakukan penanaman padi dalam satu waktu (serempak), melakukan pemupukan dengan pupuk N secara berangsur (tidak dalam satu waktu).
+        </item>
+        <item>
+            Melakukan pemusnahan terhadap padi yang terjangkit tungro (eradikasi tanaman), pencegahan/pengurangan hama wereng hijau dengan insektidisa nabati (ex : ekstrak sambilata, ekstrak daun papaya, atau ekstrak tumbuhan lainnya) maupun insektisida sintetik yang mengandung bahan aktif BPMC, bufrezin, imidakloprin, carbofuran, MIPC, dan tiametoksan (ex : phefoc HCS 500 ml, antilat, curacron, sidabas 500 EC, Naga BPMC 500, Sidabas, dan Dursban 200 EC).
+        </item>
+    </string-array>
+    <string-array name="bercak_kering">
+        <item>
+            Penyakit bercak kering pada daun tomat disebabkan oleh jamur Alternaria solani, yang berkembang dalam kondisi lembap dan hangat serta menyebar melalui spora di angin, air, atau alat pertanian yang terkontaminasi. Tanaman yang ditanam terlalu rapat, sering terkena air pada daun, atau kekurangan nutrisi seperti nitrogen, lebih rentan terinfeksi.
+        </item>
+        <item>
+            Pencegahan dapat dilakukan dengan memastikan sirkulasi udara yang baik, menghindari penyiraman langsung pada daun, rotasi tanaman, pemberian pupuk yang tepat, dan penggunaan fungisida sesuai kebutuhan. Lakukan pemupukan yang baik contohnya Pemupukan K2O ditambah 10-20% dari dosis normal untuk meningkatkan ketahanan tanaman
+        </item>
+        <item>
+            cabut / potong daun yang terinfeksi dan semprotkan fungisida pada daun dan bagian lain yang belum terinfeksi
+        </item>
+    </string-array>
+    <string-array name="bercak_bakteri">
+        <item>
+            Penyakit bercak bakteri pada daun tomat disebabkan oleh bakteri Xanthomonas campestris pv. vesicatoria atau Pseudomonas syringae pv. tomato. Penyakit ini berkembang dalam kondisi lembap dan hangat, terutama saat cuaca hujan atau irigasi berlebihan. Penyebarannya dapat terjadi melalui percikan air, angin, atau alat pertanian yang terkontaminasi. Gejala awal berupa bercak kecil berwarna coklat hingga hitam yang kemudian membesar dan menyebabkan daun menjadi layu dan kering.
+        </item>
+        <item>
+            pencegahan dapat dilakukan dengan menjaga sirkulasi udara yang baik, menghindari penyiraman langsung pada daun, melakukan sanitasi alat pertanian, serta menggunakan benih yang bebas penyakit atau varietas yang tahan terhadap infeksi bakteri ini.
+        </item>
+        <item>
+            Gunakan bakterisida berbahan aktif streptomicin atau tembaga hidroksida
+        </item>
+    </string-array>
+    <string-array name="busuk_daun">
+        <item>
+            Penyakit busuk daun pada daun tomat, atau late blight, disebabkan oleh jamur Phytophthora infestans. Penyakit ini biasanya berkembang dalam kondisi lembap dan dingin, terutama saat hujan berkepanjangan atau kelembapan tinggi. Penyebaran terjadi melalui spora yang terbawa angin, air hujan, atau kontak dengan tanaman yang terinfeksi. Gejala utamanya berupa bercak basah berwarna abu-abu kecoklatan pada daun, yang bisa menyebar dengan cepat dan menyebabkan daun menguning dan mati.
+        </item>
+        <item>
+            Pencegahan dapat dilakukan dengan menjaga jarak tanam yang cukup, menghindari penyiraman pada daun, melakukan rotasi tanaman, serta menggunakan fungisida dan varietas tomat yang tahan penyakit jika tersedia.
+        </item>
+        <item>
+            Gunakan fungisida kontak berbahan aktif mancozeb yang disemprotkan 2-4 hari berturut-turut lalu disambung fungisida sistemik berbahan aktif metalaksil untuk pengobatan dari dalam. 
+        </item>
+    </string-array>
+    <string-array name="bercak_daun_septoria">
+        <item>
+            Penyakit bercak daun Septoria pada daun tomat disebabkan oleh jamur Septoria lycopersici. Penyakit ini berkembang dalam kondisi hangat dan lembap, terutama setelah hujan atau penyiraman berlebihan yang membasahi daun. Penyebarannya terjadi melalui percikan air, angin, atau kontak dengan sisa-sisa tanaman yang terinfeksi di tanah. Gejalanya meliputi bercak kecil bulat berwarna coklat atau abu-abu dengan tepi gelap yang muncul pertama kali pada daun tua, dan jika tidak ditangani, dapat menyebar ke seluruh tanaman, menyebabkan daun menguning dan gugur.
+        </item>
+        <item>
+            Pencegahan dilakukan dengan menjaga sirkulasi udara yang baik, menghindari penyiraman pada daun, rotasi tanaman, sanitasi area tanam, serta penggunaan fungisida jika diperlukan.
+        </item>
+        <item>
+            Cabut daun yang terinfeksi dan bakar jauh dari tanaman tomat, serta lakukan penyemprotan fungisida ke tanaman yang belum terinfeksi sekitarnya
+        </item>
+    </string-array>
+    <string-array name="bercak_daun">
+        <item>
+            Penyakit bercak daun atau leaf mold pada daun tomat disebabkan oleh jamur Passalora fulva (sebelumnya dikenal sebagai Cladosporium fulvum). Penyakit ini biasanya berkembang dalam kondisi kelembapan tinggi dan ventilasi yang buruk, terutama pada suhu hangat. Jamur ini menyebar melalui spora yang terbawa udara atau percikan air, dan gejalanya meliputi bercak kuning pada permukaan atas daun, sementara di bagian bawah daun muncul lapisan jamur berwarna hijau keabu-abuan hingga coklat. Daun yang terinfeksi bisa mengering dan rontok, melemahkan tanaman secara keseluruhan.
+        </item>
+        <item>
+            Untuk mencegahnya, pastikan tanaman memiliki sirkulasi udara yang baik, hindari penyiraman langsung pada daun, serta gunakan varietas tomat yang tahan penyakit dan aplikasikan fungisida sesuai kebutuhan.
+        </item>
+        <item>
+            Membuang bagian daun yang telah terinfeksi jamur, kemudian bakar daun jauh dari tanaman tomat
+        </item>
+    </string-array>
+    <string-array name="bintik_coklat_daun">
+        <item>
+            Penyakit bintik coklat daun atau target spot pada daun tomat disebabkan oleh infeksi jamur Corynespora cassiicola. Penyakit ini berkembang dalam kondisi lembap dan suhu hangat, dengan penyebaran spora yang terjadi melalui angin, air hujan, atau alat pertanian yang terkontaminasi. Gejala utamanya adalah bercak bulat yang berwarna coklat hingga abu-abu dengan tepi gelap, dan bagian tengah bercak sering kali memiliki pola yang mirip dengan cincin konsentrik, sehingga terlihat seperti "target." Infeksi ini menyebabkan daun menguning, mengering, dan gugur, yang dapat mengurangi kemampuan fotosintesis tanaman.
+        </item>
+        <item>
+            Pencegahan dilakukan dengan menjaga sirkulasi udara yang baik, menghindari penyiraman langsung pada daun, rotasi tanaman, sanitasi area tanam, serta penggunaan fungisida yang sesuai jika diperlukan.
+        </item>
+        <item>
+            Penggunaan fungisida yang mengandung mancozeb, tembaga, atau klorotalonil.
+        </item>
+    </string-array>
+    <string-array name="gangguan_tungau_merah_dan_tungau_laba_laba">
+        <item>
+            Penyakit bercak pada daun tomat yang disebabkan oleh gangguan tungau merah (Tetranychus urticae) dan tungau laba-laba terjadi akibat infestasi tungau ini pada tanaman. Kedua jenis tungau ini berkembang dalam kondisi kering dan panas, serta menyebar melalui angin, tanaman terinfeksi, atau alat pertanian. Tungau merah dan tungau laba-laba mengisap cairan dari daun, menyebabkan bercak kuning pucat yang kemudian berubah menjadi coklat. Daun yang terserang dapat mengering, menggulung, dan akhirnya gugur, yang dapat melemahkan tanaman.
+        </item>
+        <item>
+            Untuk pencegannya kita harus menjaga kelembapan yang cukup, melakukan penyemprotan air pada bagian bawah daun secara teratur, memantau dan mengurangi infestasi dengan pengendalian biologis seperti predator alami, atau menggunakan akarisida jika diperlukan.
+        </item>
+        <item>
+            Gunakan insektisida, contohnya : abamektin
+        </item>
+    </string-array>
+    <string-array name="daun_keriting_kuning">
+        <item>
+            Penyakit daun keriting kuning pada daun tomat disebabkan oleh virus Tomato Yellow Leaf Curl Virus (TYLCV), yang disebarkan terutama oleh serangga kutu kebul (Bemisia tabaci). Penyakit ini biasanya muncul dalam kondisi hangat dan kering, yang mendukung perkembangan kutu kebul. Gejala utamanya adalah daun menguning, mengeriting, dan pertumbuhan tanaman menjadi kerdil, yang dapat secara signifikan mengurangi hasil panen.
+        </item>
+        <item>
+            Pencegahan dilakukan dengan mengendalikan populasi kutu kebul melalui pemasangan perangkap kuning, penggunaan mulsa reflektif, menjaga kebersihan lahan, serta menanam varietas tomat yang tahan virus ini jika tersedia.
+        </item>
+        <item>
+            Penyemprotan insektisida, petik bagian tanaman yang sakit kemudian bakar atau kubur bagian tersebut jauh dari lahan tomat.
+        </item>
+    </string-array>
+    <string-array name="penyakit_keriting">
+        <item>
+            Penyakit keriting atau mosaik pada daun tomat disebabkan oleh Tomato Mosaic Virus (ToMV) atau Tobacco Mosaic Virus (TMV). Virus ini menyebar melalui kontak langsung dengan tanaman yang terinfeksi, alat pertanian yang terkontaminasi, serangga, atau bahkan melalui tangan manusia saat memegang tanaman sehat setelah kontak dengan tanaman terinfeksi. Gejala utamanya adalah pola belang hijau tua dan hijau muda yang menyerupai mosaik pada daun, disertai dengan keriting dan perubahan bentuk daun, yang dapat menghambat pertumbuhan tanaman dan menurunkan hasil.
+        </item>
+        <item>
+            Pencegahan mencakup penggunaan benih bebas virus, menjaga kebersihan alat dan tangan, melakukan sanitasi lahan, serta menanam varietas tomat yang tahan terhadap virus mosaik ini.
+        </item>
+        <item>
+            Lakukan eradikasi tanaman sakit, yaitu tanaman yang menunjukkan gejala segera dicabut dan dimusnahkan supaya tidak menjadi sumber penularan ke tanaman lain yang sehat
+        </item>
+    </string-array>
+    <string-array name="hawar_daun_jagung">
+        <item>
+            Penyakit hawar daun jagung disebabkan oleh infeksi jamur Exserohilum turcicum, yang menyebabkan penyakit Northern Corn Leaf Blight (NCLB). Penyakit ini berkembang dalam kondisi lembap dan suhu sedang hingga hangat, terutama setelah hujan atau di lahan dengan irigasi berlebihan. Gejalanya berupa bercak coklat atau abu-abu berbentuk lonjong yang memanjang di sepanjang daun, yang bisa menyatu menjadi bercak besar sehingga menghambat fotosintesis dan mengurangi hasil panen. Penyebaran terjadi melalui spora yang terbawa angin atau percikan air.
+        </item>
+        <item>
+            Untuk pencegahan, disarankan menggunakan varietas jagung yang tahan terhadap hawar, melakukan rotasi tanaman, menjaga jarak tanam untuk sirkulasi udara yang baik, serta mengaplikasikan fungisida jika diperlukan.
+        </item>
+        <item>
+            Gunakan fungisida dengan bahan aktif Chlorothalonil (M5)  
+        </item>
+    </string-array>
+    <string-array name="karat_daun_jagung">
+        <item>
+            Penyakit karat daun jagung disebabkan oleh infeksi jamur Puccinia sorghi, yang menyebabkan penyakit corn leaf rust. Penyakit ini biasanya berkembang dalam kondisi lembap dan suhu hangat, dengan penyebaran spora yang terjadi melalui angin dan hujan. Gejala awalnya berupa bercak-bercak kecil berwarna kuning hingga oranye pada permukaan atas daun, yang kemudian berkembang menjadi bintik-bintik berkarat berwarna coklat hingga hitam. Infeksi yang parah dapat menyebabkan daun menguning, layu, dan gugur, yang mengurangi kemampuan fotosintesis tanaman dan hasil panen.
+        </item>
+        <item>
+            Pencegahan dapat dilakukan dengan menanam varietas jagung yang tahan terhadap karat, menjaga kebersihan area tanam, melakukan rotasi tanaman, dan aplikasi fungisida sesuai kebutuhan.
+        </item>
+        <item>
+            Segera musnahkan bagian tanaman yang terinfeksi, kemudian lakukan penyemprotan fungisida  berbahan aktif Mancozeb dan Carbendazim,  konsentrasi 2 g/ltr air dengan interval  penyemprotan  10 hari, atau penggunaan Dithane M 45 dan Delsene MX-200. 
+        </item>
+    </string-array>
+    <string-array name="bercak_daun_abu_abu">
+        <item>
+            Penyakit bercak daun abu-abu pada daun jagung disebabkan oleh infeksi jamur Cochliobolus carbonum, yang menyebabkan penyakit yang dikenal sebagai gray leaf spot. Penyakit ini biasanya berkembang dalam kondisi lembap dan suhu hangat, terutama pada tanaman yang mengalami stres akibat kekurangan air atau nutrisi. Gejala utamanya adalah bercak-bercak kecil berwarna abu-abu hingga coklat dengan tepi gelap yang muncul pada daun, dan bercak tersebut dapat menyebar dan menyatu, menyebabkan area yang lebih besar terinfeksi. Infeksi yang parah dapat mengurangi luas daun yang sehat, menghambat fotosintesis, dan mengakibatkan penurunan hasil panen.
+        </item>
+        <item>
+            Pencegahan dapat dilakukan dengan menjaga sirkulasi udara yang baik, rotasi tanaman, menghindari penyiraman yang berlebihan, serta penggunaan varietas jagung yang tahan terhadap penyakit ini dan aplikasi fungisida jika diperlukan.
+        </item>
+        <item>
+            Penggunaan fungisida yang mengandung bahan aktif piraklostrobin dan strobilurin, atau penggunaan fungisida dengan bahan aktif kombinasi azoksistrobin dan propikonazol, protiokonazol dan trifloksistrobin.
+        </item>
+    </string-array>
+    <string-array name="daun_sehat">
+        <item>
+            Tanaman aman dari penyakit
+        </item>
+        <item>
+            Tidak perlu ada pencegahan
+        </item>
+        <item>
+            Tidak perlu ada pengobatan
+        </item>
+    </string-array>
+    <string-array name="bercak_kering_daun_ketang">
+        <item>
+            Penyakit bercak kering pada daun kentang disebabkan oleh infeksi jamur Alternaria solani, yang menyebabkan penyakit early blight. Penyakit ini berkembang dalam kondisi lembap dan suhu hangat, sering kali dipicu oleh hujan atau kelembapan yang tinggi. Gejalanya berupa bercak-bercak kecil yang berwarna coklat hingga abu-abu dengan tepi berwarna gelap, yang kemudian membesar dan menyebabkan jaringan daun mengering. Bercak ini dapat menyebar ke seluruh daun dan mempengaruhi pertumbuhan tanaman. Penyebaran penyakit ini terjadi melalui spora yang terbawa angin, air, atau alat pertanian yang terkontaminasi.
+        </item>
+        <item>
+            Pencegahan dapat dilakukan dengan menjaga sirkulasi udara yang baik, menghindari penyiraman pada daun, memotong daun yang terinfeksi, serta aplikasi fungisida yang sesuai untuk mengendalikan penyebaran penyakit.
+        </item>
+        <item>
+            cabut/ potong daun yang terinfeksi dan semprotkan fungisida pada daun dan bagian lain yang belum terinfeksi
+        </item>
+    </string-array>
+    <string-array name="bercak_busuk_daun_kentang">
+        <item>
+            Penyakit busuk daun pada daun kentang biasanya disebabkan oleh infeksi jamur Phytophthora infestans, yang menyebabkan penyakit late blight (busuk daun terlambat). Penyakit ini berkembang dalam kondisi lembap, dengan suhu yang dingin hingga sedang dan kelembapan tinggi, seperti setelah hujan atau irigasi berlebihan. Gejalanya meliputi bercak basah yang berwarna hijau keabu-abuan atau coklat pada daun, yang dapat menyebar dengan cepat dan menyebabkan daun membusuk. Jamur ini juga dapat menyerang batang dan umbi kentang, menyebabkan kerusakan yang parah pada tanaman. Penyebaran penyakit ini terjadi melalui spora yang terbawa angin atau air hujan.
+        </item>
+        <item>
+            Pencegahan dapat dilakukan dengan menjaga jarak tanam yang cukup, sirkulasi udara yang baik, menghindari penyiraman berlebihan, menggunakan varietas tahan penyakit, serta aplikasi fungisida yang tepat.
+        </item>
+        <item>
+            Gunakan fungisida kontak berbahan aktif mancozeb yang disemprotkan 2-4 hari berturut-turut lalu disambung fungisida sistemik berbahan aktif metalaksil untuk pengobatan dari dalam.
+        </item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
